@@ -3,7 +3,7 @@ The project is not complete yet, this is part of my *How to  Build a Simple Cryp
 
 You will need to download the database from [here](https://drive.google.com/open?id=1OHhtrvOe-EWcX_8tipWo6tWYqkkYDkPw) and place it in the project folder. 
 
-**In the coming days I will be adding functionalities to monitor live prices, writing and testing strategies and a great user interface.**
+**In the coming days I will be adding functionalities to monitor live prices, write and test strategies and design a great user interface.**
 
 
 **I will need your support to do that, you can support me by buying me a coffee.
