@@ -3,12 +3,10 @@ import sqlite3
 from simulator import runSimulation
 from drama import dramaticTyping
 
-
-
 def fetchCoins():
     connection = sqlite3.connect('./currency_monitor.db')
     cursor = connection.cursor()
-    query = "SELECT DISTINCT first_leg, ask FROM prices WHERE timestamp='1520408341.52' AND second_leg='USD';"
+    query = "SELECT first_leg, ask FROM prices WHERE timestamp='1520408341.52' AND second_leg='USD';"
     cursor.execute(query)
     coinAskPrices = cursor.fetchall()
     coins = {}
