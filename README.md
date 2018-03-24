@@ -1,5 +1,5 @@
 # Crypto Trading Simulator
-This project is not complete yet, this is part of my *How to  Build a Simple Crypto Trading Simulator* Series. The idea is to help beginneer investor learn and experiment without losing real money.
+This project is not complete yet, this is part of my *[How to  Build a Simple Crypto Trading Simulator](https://hackernoon.com/how-to-build-a-simple-crypto-trading-simulator-part-1-4ccdddcd6b76)* Series. The idea is to help beginneer investor learn and experiment without losing real money.
 
 You need to download the database from [here](https://drive.google.com/open?id=1OHhtrvOe-EWcX_8tipWo6tWYqkkYDkPw) and place it in the project folder.
 
